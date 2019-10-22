@@ -19,5 +19,3 @@ def post(username, wif, title, body, permlink=None, reply_identifier=None, json_
 # example :
 
 post("namaakun", "postingkey" ,title=judul, body=konten, tags=['indonesia','youtube'], self_vote=False)
-
-
